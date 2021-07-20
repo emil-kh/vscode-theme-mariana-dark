@@ -1,3 +1,5 @@
+# This is a fork of the original [Sublime Text 4 Theme](https://marketplace.visualstudio.com/items?itemName=EmilijanMB.sublime-text-4-theme) from [@EmilijanMB](https://github.com/EmilijanMB) enhanced with a Colorful/Semantic highlighting version
+
 ### Sublime Text 4 Theme in Visual Studio Code! New default dark theme from Sublime Text 4!
 
 <p align="center"><img width="800px" src="https://i.ibb.co/dgvrYCz/sublime-text-4-theme.jpg" alt="sublime-text-4-theme"></p>
@@ -31,44 +33,4 @@ Linux: Ctrl + Shift + P
 
 Type `theme`, choose `Preferences: Color Theme`, and select Sublime Text 4 Theme
 
-### Overriding the colors
 
-**Editor colors**
-
-```js
-"editor.tokenColorCustomizations": {
-    "[Sublime Text 4 Theme]": {
-        "textMateRules": [
-            {
-                "scope": "comment",
-                "settings": {
-                     "foreground": "#74705D",
-                }
-            },
-        ]
-    },
-},
-```
-
-**Theme colors**
-
-"workbench.colorCustomizations": {
-"[Sublime Text 4 Theme]": {
-"editor.selectionBackground": "#ff0000",
-}
-},
-
-## Recommended settings for complete Sublime Text 4 experience
-
-```js
-{
-    // Changes to like Sublime Text 4 Theme now even more
-    
-    "breadcrumbs.enabled": false,
-    "editor.letterSpacing": 0.55,
-    "editor.lineHeight": 18,
-    "window.menuBarVisibility": "compact"
-}
-```
-
-# sublime-text-4-theme
