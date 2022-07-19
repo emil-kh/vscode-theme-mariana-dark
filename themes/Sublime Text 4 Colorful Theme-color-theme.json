@@ -596,7 +596,7 @@
       "italic": false
     },
     "variable": {
-      "foreground": "#d8dee9"
+      "foreground": "#ddddd7"
     },
     "variable.readonly": {
       "foreground": "#d8b389"
@@ -608,17 +608,20 @@
     "interface.declaration": {
       "italic": false
     },
-    "property.readonly": {
-      "foreground": "#EC5F66"
+    "storage.type.property": {
+      "fontStyle": "italic"
     },
     "property.declaration": {
-      "foreground": "#d8dee9"
+      "foreground": "#86b9eb",
+    },
+    "property.readonly": {
+      "foreground": "#EC5F66"
     },
     "method": {
       "foreground": "#86b9eb"
     },
     "enumMember": {
-      "foreground": "#d8dee9",
+      "foreground": "#ddddd7",
       "italic": true
     }
   }

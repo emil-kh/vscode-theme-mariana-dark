@@ -3,7 +3,7 @@
     "displayName": "Sublime Text 4 Colorful Theme",
     "description": "Sublime Text 4 Theme! New dark theme from Sublime Text 4 with converted color files from HSL to HEX, including the original and a colorful version.",
     "icon": "images/spellIcon.png",
-    "version": "1.2.1",
+    "version": "1.3.0",
     "publisher": "Enubia",
     "repository": {
         "type": "git",
@@ -30,11 +30,6 @@
     ],
     "contributes": {
         "themes": [
-            {
-                "label": "Sublime Text 4 Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Sublime Text 4 Theme-color-theme.json"
-            },
             {
                 "label": "Sublime Text 4 Colorful Theme",
                 "uiTheme": "vs-dark",
