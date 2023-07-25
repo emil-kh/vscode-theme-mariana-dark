@@ -10,3 +10,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## v1.0.2
 - The background color of the status bar has been updated.
+
+## v1.0.3
+- Lighten the shades of orange and red.
