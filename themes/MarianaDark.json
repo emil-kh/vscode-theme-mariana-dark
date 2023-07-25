@@ -2,15 +2,15 @@
   "name": "Sublime Text 4 Theme",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#22262a",
+    "activityBar.background": "#303841",
     "activityBar.foreground": "#e6e6e6",
     "activityBarBadge.background": "#2e3238cc",
     "activityBarBadge.foreground": "#e6e6e6",
     "badge.background": "#454b54",
     "badge.foreground": "#e6e6e6",
-    "button.background": "#444444",
+    "button.background": "#72787E",
     "button.foreground": "#e6e6e6",
-    "button.hoverBackground": "#007acc",
+    "button.hoverBackground": "#545B62",
     "diffEditor.insertedTextBackground": "#a3ce9e40",
     "diffEditor.removedTextBackground": "#ee6a6f40",
     "dropdown.background": "#343d46",
@@ -118,17 +118,17 @@
     "scrollbarSlider.background": "#61666d66",
     "scrollbarSlider.hoverBackground": "#5c626bb3",
     "selection.background": "#ffffff80",
-    "sideBar.background": "#22262a",
-    "sideBar.foreground": "#e6e6e6",
-    "sideBarSectionHeader.background": "#22262a",
-    "sideBarSectionHeader.foreground": "#e6e6e6",
-    "sideBarTitle.foreground": "#e6e6e6",
+    "sideBar.background": "#303841",
+    "sideBar.foreground": "#EBEDEF",
+    "sideBarSectionHeader.background": "#303841",
+    "sideBarSectionHeader.foreground": "#EBEDEF",
+    "sideBarTitle.foreground": "#3A3A3A",
     "statusBar.background": "#2e3238",
     "statusBar.border": "#cfebfd00",
     "statusBar.debuggingBackground": "#007acc",
     "statusBar.debuggingForeground": "#e6e6e6",
     "statusBar.foreground": "#e6e6e6",
-    "statusBar.noFolderBackground": "#181c21",
+    "statusBar.noFolderBackground": "#303841",
     "statusBar.noFolderForeground": "#e6e6e6",
     "statusBarItem.activeBackground": "#cfebfd21",
     "statusBarItem.hoverBackground": "#cfebfd14",
@@ -168,9 +168,9 @@
     "textLink.activeForeground": "#6699cc",
     "textLink.foreground": "#6699cc",
     "textPreformat.foreground": "#6699cc",
-    "titleBar.activeBackground": "#2b2b2b",
+    "titleBar.activeBackground": "#303841",
     "titleBar.activeForeground": "#e6e6e6",
-    "titleBar.inactiveBackground": "#2b2b2b",
+    "titleBar.inactiveBackground": "#303841",
     "titleBar.inactiveForeground": "#7f7f7f",
     "widget.shadow": "#00000040",
     "menu.background": "#2b2a29"
@@ -330,7 +330,7 @@
     {
       "scope": "entity.name",
       "settings": {
-        "foreground": "#FAC761"
+        "foreground": "#F9C669"
       }
     },
     {
@@ -343,7 +343,7 @@
     {
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#FAC761",
+        "foreground": "#F9C669",
         "fontStyle": ""
       }
     },
@@ -498,7 +498,7 @@
         "markup.list punctuation.definition.list_item"
       ],
       "settings": {
-        "foreground": "#FAC761"
+        "foreground": "#F9C669"
       }
     },
     {
@@ -589,7 +589,7 @@
       "italic": true
     },
     "parameter": {
-      "foreground": "#FAC761",
+      "foreground": "#F9C669",
       "italic": true
     },
     "parameter.declaration": {
