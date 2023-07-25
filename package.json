@@ -3,12 +3,12 @@
     "displayName": "Mariana Dark Theme",
     "description": "Mariana Dark Theme based on sublime",
     "icon": "images/icon.png",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "iliareshetov",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/iliareshetov/mariana-dark"
+        "url": "https://github.com/iliareshetov/vscode-theme-mariana-dark"
     },
     "keywords": [
         "mariana",
