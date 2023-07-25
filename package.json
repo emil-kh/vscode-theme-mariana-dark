@@ -5,6 +5,7 @@
     "icon": "images/icon.png",
     "version": "1.0.0",
     "publisher": "iliareshetov",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/iliareshetov/mariana-dark"
