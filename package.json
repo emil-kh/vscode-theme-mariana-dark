@@ -1,33 +1,42 @@
 {
-    "name": "vscode-theme-mariana-dark",
-    "displayName": "Mariana Dark Theme",
-    "description": "Mariana Dark Theme based on sublime",
-    "icon": "images/icon.png",
-    "version": "1.0.3",
-    "publisher": "iliareshetov",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/iliareshetov/vscode-theme-mariana-dark"
-    },
-    "keywords": [
-        "mariana",
-        "dark",
-        "theme"
-    ],
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Mariana Dark Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/MarianaDark.json"
-            }
-        ]
-    }
+  "name": "vscode-theme-mariana-dark",
+  "displayName": "Mariana Dark Theme",
+  "description": "Mariana Dark Theme based on sublime",
+  "icon": "images/icon.png",
+  "version": "1.0.4",
+  "publisher": "iliareshetov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iliareshetov/vscode-theme-mariana-dark"
+  },
+  "keywords": [
+    "mariana",
+    "dark",
+    "theme",
+    "OpenEdge ABL",
+    "abl",
+    "Progress",
+    "Progress 4GL"
+  ],
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mariana Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MarianaDark.json"
+      },
+      {
+        "label": "Mariana Dark Theme OpenEdge",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MarianaDarkOpenEdge.json"
+      }
+    ]
+  }
 }
