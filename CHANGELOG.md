@@ -23,3 +23,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Added preliminary theme for OpenEdge ABL
 
 ## v1.0.5
+
+## v1.0.6
+
+- Updated color for OpenEdge theme

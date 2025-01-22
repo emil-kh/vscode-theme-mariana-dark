@@ -221,7 +221,6 @@
     },
     {
       "scope": [
-        "keyword",
         "keyword.operator.word",
         "keyword.control",
         "keyword.operator.new"
@@ -288,9 +287,39 @@
       }
     },
     {
-      "scope": ["storage", "storage.type"],
+      "scope": ["storage.data.table.abl"],
       "settings": {
-        "foreground": "#186cc9"
+        "foreground": "#698ab5"
+      }
+    },
+    {
+      "scope": ["meta.define.class.abl"],
+      "settings": {
+        "foreground": "#698ab5"
+      }
+    },
+    {
+      "scope": ["variable.other.abl"],
+      "settings": {
+        "foreground": "#d7dade"
+      }
+    },
+    {
+      "scope": ["string.double.complex.abl"],
+      "settings": {
+        "foreground": "#a1aebf"
+      }
+    },
+    {
+      "scope": ["source.abl"],
+      "settings": {
+        "foreground": "#86B9EB"
+      }
+    },
+    {
+      "scope": ["keyword.other.abl"],
+      "settings": {
+        "foreground": "#ae95c6"
       }
     },
     {
@@ -300,7 +329,7 @@
       }
     },
     {
-      "scope": "entity.name.function",
+      "scope": "entity.name.function.abl",
       "settings": {
         "foreground": "#86b9eb"
       }
@@ -309,12 +338,6 @@
       "scope": "meta.object-literal.key",
       "settings": {
         "foreground": "#6699CC"
-      }
-    },
-    {
-      "scope": "entity.name",
-      "settings": {
-        "foreground": "#F9C669"
       }
     },
     {
