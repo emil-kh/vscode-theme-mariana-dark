@@ -37,6 +37,11 @@
         "uiTheme": "vs-dark",
         "path": "./themes/MarianaDarkOpenEdge.json"
       }
+      {
+        "label": "OpenEdge Monokai Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OpenEdgeMonokai.json"
+      }
     ]
   }
 }
