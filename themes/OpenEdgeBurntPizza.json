@@ -11,7 +11,7 @@
         "diffEditor.insertedTextBackground": "#00809B33",
         "dropdown.background": "#1d1f23",
         "dropdown.border": "#181A1F",
-        "editor.background": "#282c34",
+        "editor.background": "#272822",
         "editor.findMatchBackground": "#42557B",
         "editor.findMatchHighlightBackground": "#314365",
         "editor.lineHighlightBackground": "#383E4A",
@@ -45,7 +45,7 @@
         "scrollbarSlider.background": "#4E566680",
         "scrollbarSlider.hoverBackground": "#5A637580",
         "sideBar.background": "#21252b",
-        "sideBarSectionHeader.background": "#282c34",
+        "sideBarSectionHeader.background": "#272822",
         "statusBar.background": "#21252B",
         "statusBar.foreground": "#9da5b4",
         "statusBarItem.hoverBackground": "#2c313a",
@@ -71,16 +71,16 @@
         "terminal.ansiBrightMagenta": "#7e0097",
         "terminal.ansiBrightRed": "#f44747",
         "terminal.ansiBrightWhite": "#d7dae0",
-        "titleBar.activeBackground": "#282c34",
+        "titleBar.activeBackground": "#272822",
         "titleBar.activeForeground": "#9da5b4",
-        "titleBar.inactiveBackground": "#282C34",
+        "titleBar.inactiveBackground": "#272822",
         "titleBar.inactiveForeground": "#6B717D"
       },
     "tokenColors": [
       {
         "scope": ["comment", "punctuation.definition.comment"],
         "settings": {
-          "foreground": "#A6ACB9"
+          "foreground": "#46743C"
         }
       },
       {
@@ -114,6 +114,9 @@
           "foreground": "#C695C6"
         }
       },
+
+
+      
       {
         "scope": ["variable.member", "variable.other.constant.property"],
         "settings": {
@@ -190,7 +193,7 @@
       {
         "scope": ["storage.data.table.abl"],
         "settings": {
-          "foreground": "#698ab5"
+          "foreground": "#F23E61"
         }
       },
       {
@@ -211,22 +214,24 @@
           "foreground": "#a1aebf"
         }
       },
+
+      
       {
         "scope": ["source.abl"],
         "settings": {
-          "foreground": "#282C34"
+          "foreground": "#C77DBB"
         }
       },
       {
         "scope": ["keyword.other.abl"],
         "settings": {
-          "foreground": "#ae95c6"
+          "foreground": "#F29042"
         }
       },
       {
         "scope": ["storage.type.abl"],
         "settings": {
-          "foreground": "#f08288"
+          "foreground": "#F2DF7A"
         }
       },
       {
@@ -251,7 +256,7 @@
       {
         "scope": "variable.parameter",
         "settings": {
-          "foreground": "#F9C669",
+          "foreground": "#BCBEC4",
           "fontStyle": ""
         }
       },

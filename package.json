@@ -36,11 +36,11 @@
         "label": "Mariana Dark Theme OpenEdge",
         "uiTheme": "vs-dark",
         "path": "./themes/MarianaDarkOpenEdge.json"
-      }
+      },
       {
-        "label": "OpenEdge Monokai Theme",
+        "label": "OpenEdge BurntPizza Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/OpenEdgeMonokai.json"
+        "path": "./themes/OpenEdgeBurntPizza.json"
       }
     ]
   }
